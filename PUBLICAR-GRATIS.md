@@ -23,7 +23,7 @@ La página ya está preparada en un repositorio local de GitHub Desktop, en la r
 
 - El repositorio público hace visible el código y los archivos del sitio. Revisa que los datos comerciales publicados sean los correctos.
 - El formulario abre WhatsApp con un mensaje preparado; la página no lo envía automáticamente ni almacena datos.
-- Las fotos de la sección de proyectos son ilustrativas. Reemplázalas por fotos reales de JYM antes de anunciar trabajos específicos.
+- La foto de portada y los gráficos de servicios son ilustrativos. Añade fotos propias antes de presentar trabajos específicos como proyectos realizados por JYM.
 - La dirección gratuita será un subdominio `github.io`; no se compra un dominio `.com`.
 
 Documentación oficial: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
